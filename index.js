@@ -21,13 +21,13 @@ exports.handler = async (event) => {
 
     return {
       statusCode: 201,
-      response: savedRecord
+      body: savedRecord
     }
 
   } catch (e) {
     return {
       statusCode: 500,
-      response: e.message
+      body: e.message
     }
 
   }
