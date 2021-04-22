@@ -1,2 +1,4 @@
-# aws-serverless-api
-Lab 18
+# Lab 18 - AWS DYNAMO API DEPLOYMENT
+
+### 
+![INSOMNIA](insomnia.PNG)
