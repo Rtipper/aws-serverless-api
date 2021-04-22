@@ -7,7 +7,7 @@
 
 ### Insomnia Images
 
-![INSOMNIA - POST ](insomniaPost.PNG)
-![INSOMNIA - GET ](insomniaGet.PNG)
-![INSOMNIA - PUT ](insomniaPut.PNG)
-![INSOMNIA - DELETE ](insomniaDelete.PNG)
+![INSOMNIA - POST ](./insomniaPost.PNG)
+![INSOMNIA - GET ](./insomniaGet.PNG)
+![INSOMNIA - PUT ](./insomniaPut.PNG)
+![INSOMNIA - DELETE ](./insomniaDelete.PNG)
