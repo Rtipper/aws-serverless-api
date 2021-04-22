@@ -6,6 +6,7 @@
 - DELETE: https://github.com/Rtipper/dynamo-delete-lab18
 
 ### Insomnia Test Images
+- https://b6g3le97jk.execute-api.us-west-2.amazonaws.com/friends
 
 ![INSOMNIA - POST ](img/insomniaPost.PNG)
 ![INSOMNIA - GET ](img/insomniaGet.PNG)
