@@ -1,5 +1,5 @@
 {
-  "name": "aws-serverless-api",
+  "name": "dynamo-post-lab18",
   "version": "1.0.0",
   "description": "Lab 18",
   "main": "index.js",
